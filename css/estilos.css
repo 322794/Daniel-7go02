@@ -1,0 +1,24 @@
+section{
+    width: auto;
+    height: 200px;
+    background-image:url(../img/digital.jpg);
+    background-size: cover;
+    
+}
+nav{
+    text-align: center;
+    background-color: rgb(9, 226, 45);
+    font-size: x-large;
+    font-style: italic;
+    
+}
+p{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+footer h2{
+    text-align: center;
+    color: blue;
+    
+}
